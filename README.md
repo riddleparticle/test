@@ -1,3 +1,3 @@
 # Graef Technical Solutions
 
-![logo](images/logo.png)
+![logo](images/gt-logo.png)
