@@ -1,2 +1,3 @@
-# riddleparticle.github.io
-Project website
+# Graef Technical Solutions
+
+![logo](images/logo.png)
